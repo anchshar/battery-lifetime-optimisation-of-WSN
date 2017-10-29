@@ -1,6 +1,6 @@
 # Battery Lifetime Optimisation of Wireless Sensor Networks
 
-#File details
+# File details
 
 LEACHGUI runs the original LEACH protocol.
 
